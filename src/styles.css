@@ -1,0 +1,11 @@
+.App {
+  font-family: "Overlook", sans-serif;
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  margin: 0;
+}

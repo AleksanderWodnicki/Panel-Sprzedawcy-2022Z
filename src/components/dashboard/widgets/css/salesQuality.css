@@ -1,0 +1,51 @@
+.SalesQualityWidget {
+  width: 250px;
+
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+  text-align: center;
+  vertical-align: center;
+}
+
+.WidgetName {
+  text-align: left;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+
+.QualityAspects {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.QualityAspectName {
+  width: 100px;
+
+  flex-direction: column;
+  display: flex;
+  text-align: left;
+
+  padding-left: 15px;
+  padding-bottom: 5px;
+}
+
+.QualityAspect {
+  width: 100px;
+
+  flex-direction: column;
+  display: flex;
+  text-align: right;
+
+  padding-right: 15px;
+  padding-bottom: 5px;
+}
+
+.QualityCategory {
+  flex-direction: column;
+  display: flex;
+
+  padding-top: 10px;
+  padding-bottom: 15px;
+}

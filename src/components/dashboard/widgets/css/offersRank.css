@@ -1,0 +1,85 @@
+.OffersRank {
+  width: 550px;
+  padding: 25px;
+  display: flex;
+  text-align: center;
+  vertical-align: center;
+}
+
+.WidgetName {
+  text-align: left;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.Icon {
+  width: 50px;
+  height: 50px;
+}
+
+#offerIcon {
+  margin-right: 10px;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #000000;
+}
+
+.Offer {
+  height: 70px;
+  padding-left: 15px;
+  display: flex;
+}
+
+.IconAndName {
+  display: flex;
+  width: 230px;
+  align-items: center;
+  text-align: left;
+}
+
+.Sold {
+  display: flex;
+  width: 170px;
+  align-items: center;
+  justify-content: center;
+}
+
+.TurnoverOrViews {
+  display: flex;
+  width: 90px;
+  align-items: center;
+  justify-content: center;
+}
+
+.OffersListHeader {
+  display: flex;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.OfferIconAndName {
+  display: flex;
+  width: 230px;
+  align-text: ;
+}
+
+.OfferSold {
+  display: flex;
+  width: 170px;
+  align-items: center;
+  justify-content: center;
+}
+
+.OfferTurnoverOrViews {
+  display: flex;
+  width: 90px;
+  align-items: center;
+  justify-content: center;
+}

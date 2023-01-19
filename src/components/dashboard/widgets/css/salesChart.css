@@ -1,0 +1,22 @@
+.SalesChart {
+  width: 520px;
+  padding: 25px;
+  text-align: center;
+  vertical-align: center;
+}
+
+.WidgetName {
+  text-align: left;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+
+.SalesChartButtons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}

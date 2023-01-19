@@ -1,0 +1,49 @@
+.OrdersWidget {
+  width: 250px;
+
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+  text-align: center;
+  vertical-align: center;
+}
+
+.Icon {
+  width: 50px;
+  height: 50px;
+}
+
+.WidgetName {
+  text-align: left;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+
+.OrderTypeName {
+  display: flex;
+  justify-content: center;
+}
+
+.OrderTypeColumn {
+  width: 100px;
+
+  flex-direction: column;
+  display: flex;
+
+  text-align: center;
+  align-items: center;
+
+  padding-bottom: 10px;
+}
+
+.OrderTypeRow {
+  width: 100px;
+
+  flex-direction: column;
+  display: flex;
+
+  text-align: center;
+  justify-items: center;
+  padding: 20px 0;
+}

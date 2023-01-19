@@ -1,0 +1,52 @@
+.CustomerReviewsWidget {
+  width: 520px;
+  height: 600px;
+  padding: 25px;
+
+  text-align: left;
+  vertical-align: center;
+}
+
+.WidgetName {
+  text-align: left;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.ReviewsList {
+}
+
+.CustomerReview {
+}
+
+.CustomerReviewTitle {
+  display: inline-block;
+  width: 420px;
+  justify-content: flex-start;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.CustomerReviewScore {
+  display: inline-block;
+  width: 15px;
+  justify-content: right;
+  align-items: right;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.ReviewBody {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.Author {
+  padding-bottom: 10px;
+  padding-left: 15px;
+}

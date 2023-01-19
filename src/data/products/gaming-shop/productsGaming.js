@@ -1,0 +1,10 @@
+export const battlefield2042 = require("./battlefield-2042.png");
+export const battlefield3 = require("./battlefield-3.png");
+export const battlefield4 = require("./battlefield-4.png");
+export const godofwarragnarok = require("./god-of-war-ragnarok.png");
+export const hitman3 = require("./hitman-3.png");
+export const kaothekangaroo = require("./kao-the-kangaroo.png");
+export const padps4 = require("./pad-ps4.png");
+export const ps3 = require("./ps3.png");
+export const ps5 = require("./ps5.png");
+export const thesims4 = require("./the-sims-4.png");
